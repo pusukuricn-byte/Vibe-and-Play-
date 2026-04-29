@@ -1,0 +1,6 @@
+{
+  "name": "Neon Snake & Music Player",
+  "description": "A React web app combining a Snake game with a music player featuring a dark neon aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
